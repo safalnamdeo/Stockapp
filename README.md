@@ -1,7 +1,7 @@
 
-  # webapp
+  # Stock Trading Web Application
 
-  This is a code bundle for webapp. The original project is available at https://www.figma.com/design/hpaRVMq61Z59OS75cNdvAm/webapp.
+  A modern stock trading platform built with React, TypeScript, and Vite.
 
   ## Running the code
 
